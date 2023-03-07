@@ -8,4 +8,6 @@ func main() {
 	fmt.Println("第2次修改！")
 	fmt.Println("master 第1次修改！")
 	fmt.Println("nick,第1次修改！")
+
+	fmt.Println("master yes 1")
 }
