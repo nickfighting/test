@@ -11,4 +11,6 @@ func main() {
 
 	fmt.Println("master yes 1")
 	fmt.Println("nick yes 1")
+	fmt.Println("tom 1")
+
 }
